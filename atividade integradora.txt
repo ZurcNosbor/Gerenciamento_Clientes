@@ -1,0 +1,48 @@
+Desenvolvimento de um sistema para gerencia de clientes
+
+
+Uma empresa de comércio eletrônico necessita desenvolver um sistema para gerenciamento de clientes utilizando linguagem Java. Você está responsável por desenvolver as classes destinadas a permitir o futuro controle das vendas e dos clientes.
+
+Descrição
+
+Estas classes deverão permitir o controle das vendas e pagamentos dos clientes, sendo que estes são classificados, pela empresa, como Clientes A, B ou C, cada um com características peculiares.
+
+Descrição das funcionalidades de cada tipo de cliente:
+
+Clientes tipo A, recebem no momento do cadastro R$ 10.000,00 de limite de crédito. A cada R$ 5.000,00 em compras, este limite é acrescido em R$ 500,00. Esse aumento de limite deve ser avisado no momento da compra. Caso realizem compras com valor a partir de R$ 2.000,00, estes clientes recebem um desconto de 10% na compra realizada. O valor do desconto deve ser avisado no momento da compra.
+Clientes tipo B, recebem R$ 5.000,00 de limite de crédito. Caso realizem compras com valor a partir de R$ 1.000,00, estes clientes recebem um desconto de 5% na compra realizada. O valor do desconto deve ser avisado no momento da compra.
+Clientes tipo C, recebem R$ 1.000,00 de limite de crédito, e podem comprar e pagar suas compras.
+Baseado nas informações acima, desenvolva as seguintes atividades:
+
+planeje a modelagem de abstração dos objetos relacionados ao projeto;
+planeje quais as classes que serão implementadas, listando os atributos e métodos de cada uma. 
+identifique como os mecanismos de herança e polimorfismo no desenvolvimento das classes;
+Desenvolva o diagrama de classes que modele este planejamento. 
+desenvolva as classes utilizando os mecanismos de Orientação a objetos estudados (construtores, modificadores, assessores, herança e polimorfismo, dentre outros).
+crie uma aplicação que faça a simulação de compras e pagamentos de cada um dos clientes, exibindo o limite de crédito e valor devido de cada um.
+Pontos a serem levados em consideração:
+
+Cuidar o alinhamento e a identação do código;
+Seguir os conceitos e normatizações da Orientação à Objetos (padrões para nomenclatura dos elementos, variáveis com nomes correspondentes à funcionalidade, uso de objetos, métodos com nomes apropriados e iniciando em verbo...);
+Comente o código!
+Formato de entrega
+
+Você deve realizar duas entregas, sendo a primeira na Unidade 4 e a completa na Unidade 6. Para composição da nota, será considerada somente a segunda entrega, embora caso a primeira não seja realizada, descontos serão aplicados a nota final!
+
+Primeira entrega - quando abrir a Unidade 4
+
+Na quarta Unidade, será aberto o link para envio parcial da atividade, onde devem ser enviados:
+
+o diagrama de classes atual do projeto (a ferramenta de desenho é livre);
+o projeto parcial, contendo no mínimo os esqueletos das classes e definições de herança. Podem constar somente as assinaturas dos métodos que serão desenvolvidos.
+Entrega final - quando abrir a Unidade 4
+
+Na sexta Unidade, será aberto o link para envio completo da Atividade Integrada, onde devem ser enviados:
+
+o diagrama de classes completo (a ferramenta de desenho é livre);
+a pasta completa do projeto, compactado em formato *.zip e renomeado no padrão "Atividade_integradora_<nome do aluno>" (substituindo <nome do aluno> pelo seu nome completo).
+um vídeo (voz e captura de tela) explicando o código desenvolvido,  com máximo de 5 minutos.
+
+
+Peso: 50 pontos
+
